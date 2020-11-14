@@ -20,9 +20,10 @@ members:
 
 -   current SIGPLAN Chair,
 -   current SIGPLAN Vice chair,
--   current and past three SPLASH General Chairs,
--   current and past three OOPSLA Program Chairs,
--   current and past three Onward! Program Chairs, and
+-   current, past, and future three SPLASH General Chairs,
+-   current, past, and future three OOPSLA Program Chairs,
+-   current, past, and future three Onward! Program Chairs, 
+-   several members-at-large, and
 -   the outgoing Chair of the Steering Committee, for one year past the end of
     his or her term as Chair.
 
@@ -30,6 +31,8 @@ The Chair of the Steering Committee is elected by the Steering Committee from
 among the members of the committee to serve a two-year term.  The outgoing
 chair serves an additional year on the committee past his or her term as chair
 to provide institutional memory.
+
+The members-at-large are appointed by the Steering Committee.
 
 The constitution of the steering committee changes each year upon conclusion
 of that year's conference.
